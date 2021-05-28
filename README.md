@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @vanavi-b
+- 👀 I’m interested in computer vision, machine and deep learning
+- 🌱 I’m currently learning typescript, nodejs and python
